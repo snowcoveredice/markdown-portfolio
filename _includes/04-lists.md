@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- a
+- list
+- of
+  - things
+  - stuff
+
+1. also
+2. with
+3. numbers
